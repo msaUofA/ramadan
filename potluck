@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="0; url=https://forms.gle/9U3bW1i4AuhnC5Sp6">
+  <script>
+    window.location.replace("https://forms.gle/9U3bW1i4AuhnC5Sp6");
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>
